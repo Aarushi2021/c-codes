@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include<math.h>
+
+int main(){
+    int n1;
+    scanf("%d",&n1);
+    (n1%2==0)?printf("yes its even"):printf("no its odd");
+    return 0;
+}
+
+  
